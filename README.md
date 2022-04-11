@@ -74,25 +74,33 @@ df.corr()
 sns.heatmap(df.corr(),annot=True)
 ~~~
 # OUPUT
+### Read data:
 ![output](ot1.png)
 ![output](ot2.png)
+### Checking Null values:
 ![output](ot3.png)
 ![output](ot4.png)
+### Null values with outliners:
 ![output](ot5.png)
 ![output](ot6.png)
+### Replacing the Null values:
 ![output](ot7.png)
 ![output](ot8.png)
 ![output](ot9.png)
+### Plotting graphs:
 ![output](ot10.png)
 ![output](ot11.png)
 ![output](ot12.png)
+### After replacing Null values:
 ![output](ot13.png)
 ![output](ot14.png)
 ![output](ot15.png)
 ![output](ot16.png)
 ![output](ot17.png)
 ![output](ot18.png)
+### Correlation between data's:
 ![output](19.png)
+### Heat Map:
 ![output](ot20.png)
 
 # RESULT

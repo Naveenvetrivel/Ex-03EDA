@@ -40,7 +40,7 @@ Save the final data set into the file.
 
 # CODE
 ~~~
-Developed By: NAVEENKUMAR V
+Developed By: Naveenkumar V
 Register No: 212221230068
 ```
 import pandas as pd
